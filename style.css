@@ -5,6 +5,14 @@ h1 {
     text-align: center;
 }
 
+h3 {
+    font-size: 1.3em;
+    font-weight: bold;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    text-align: center;
+}
+
 .myBackgroundClaro {
     background-color: rgba(21, 25, 29, 0.09);
 }
