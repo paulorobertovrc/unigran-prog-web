@@ -36,3 +36,35 @@ h3 {
     margin-bottom: 0.5em;
     align-items: center;
 }
+
+.myBox {
+    background-color: rgba(21, 25, 29, 0.3);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+    margin-bottom: 1em;
+    transition: 0.2s all;
+}
+
+.myBox:hover {
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    transform: scale(1.1);
+}
+
+#vantagens {
+    animation-name: slide;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+}
+
+@keyframes slide {
+    from {
+        margin-left: -100%;
+        width: 300%;
+    }
+
+    to {
+        margin-left: 0%;
+        width: 100%;
+    }
+}
