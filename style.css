@@ -13,6 +13,10 @@ h3 {
     text-align: center;
 }
 
+.carousel-indicators, .carousel-control-prev-icon, .carousel-control-next-icon {
+    filter: invert(100%);
+}
+
 .myBackgroundClaro {
     background-color: rgba(21, 25, 29, 0.09);
 }
@@ -23,4 +27,12 @@ h3 {
 
 .myDivVantagens {
     width: 325px;
+}
+
+.myImage {
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    margin-bottom: 0.5em;
+    align-items: center;
 }

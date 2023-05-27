@@ -3,11 +3,10 @@ Desenvolver uma landing page para apresentação de um produto ou serviço, a qu
 - [ x ] Header
 - [ x ] Apresentação do produto ou serviço
 - [ x ] Características
-- [   ] Equipe de desenvolvimento
-- [   ] Comentários de pessoas que já utilizaram
-- [   ] Preços
-- [   ] Perguntas frequentes
-- [   ] Formulário para cadastro de newsletter (nome e e-mail)
+- [ x ] Equipe de desenvolvimento
+- [ x ] Comentários de pessoas que já utilizaram
+- [ x ] Perguntas frequentes
+- [ x ] Formulário para cadastro de newsletter (nome e e-mail)
 - [ x ] Footer
 
 ### Tecnologias utilizadas
