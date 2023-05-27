@@ -8,6 +8,9 @@ Desenvolver uma landing page para apresentação de um produto ou serviço, a qu
 - [ x ] Perguntas frequentes
 - [ x ] Formulário para cadastro de newsletter (nome e e-mail)
 - [ x ] Footer
+- [ x ] Responsividade
+- [ x ] Inclusão de animações com CSS
+- [ x ] Inclusão de efetos com jQuery
 
 ### Tecnologias utilizadas
 - HTML
